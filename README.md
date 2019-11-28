@@ -1,4 +1,4 @@
-# csStudentsSocial .  
+# csStudentsSocial 
 Website:https://limitless-hollows-46638.herokuapp.com/
 
 <h1>A full stack web app for CS students to connect and discuss with others</h1>
